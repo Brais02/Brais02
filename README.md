@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Brais GitHub stats](https://github-readme-stats.vercel.app/api?username=Brais02&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brais02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Brais02/Brais02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
