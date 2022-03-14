@@ -7,7 +7,7 @@ JavaScript, PHP, MySQL, PostgreSQL, Bootstrap
 
 #### <i>📊 GitHub Stats:</i>
 <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Brais02&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" /> <img src="https://github-readme-stats.vercel.app/api?username=Brais02&theme=radical" alt="Brais GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brais02&layout=compact" alt="Top Langs" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Brais02&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="My Stats in Trophie Formate" height="105" /> <img src="https://github-readme-stats.vercel.app/api?username=Brais02&theme=radical" alt="My GitHub Stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brais02&layout=compact" alt="List of Languages" height="150"/>
 </div>
 
 ### About Me
