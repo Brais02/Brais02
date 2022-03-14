@@ -2,9 +2,9 @@
 
 ### GitHub Stats:
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Brais02&theme=radical" alt="Brais GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brais02&layout=compact" alt="Top Langs" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Brais02&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" /> <img src="https://github-readme-stats.vercel.app/api?username=Brais02&theme=radical" alt="Brais GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brais02&layout=compact" alt="Top Langs" />
       
-      <img src="https://github-profile-trophy.vercel.app/?username=Brais02&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
+      
 
 </div>
 
