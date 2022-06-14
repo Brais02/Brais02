@@ -3,7 +3,7 @@
 ### 💻 Skills
 
 #### <i>Languages:</i>
-JavaScript, PHP, MySQL, PostgreSQL, Bootstrap
+JavaScript, PHP, MySQL, PostgreSQL, Bootstrap, HTML, CSS
 
 #### <i>📊 GitHub Stats:</i>
 <div align="center">
